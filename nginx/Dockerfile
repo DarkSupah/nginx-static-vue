@@ -1,6 +1,6 @@
 FROM nginx:alpine
 
-VOLUME "/app/static"
+VOLUME "/www/data/scripts"
 
 EXPOSE 80
 
